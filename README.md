@@ -35,6 +35,10 @@
 
 ### Step 10: Now paste the IP address in the browser.For verify open the firefox 
 <img width="804" height="600" alt="15" src="https://github.com/user-attachments/assets/cc517a69-278e-4605-8e2b-f25a8a64e1dc" />
+
+## For hosting the 2 website 
+
+### Step 11: Create directory and index file for the second website 
 <img width="653" height="462" alt="16" src="https://github.com/user-attachments/assets/3c6678b7-72de-416d-85ab-6594874bc328" />
 <img width="668" height="465" alt="17" src="https://github.com/user-attachments/assets/82c6f96d-c55f-4286-99a9-ee05d14314e2" />
 <img width="664" height="461" alt="18" src="https://github.com/user-attachments/assets/89d6ad5a-83fc-4def-ae26-6bcdb9804108" />
