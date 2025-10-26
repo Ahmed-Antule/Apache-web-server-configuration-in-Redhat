@@ -54,7 +54,11 @@
 ### Step 14: Update the hosts file
 <img width="663" height="316" alt="23" src="https://github.com/user-attachments/assets/1a0a6343-5ecc-4eb5-9963-8148bc280f13" />
 <img width="672" height="332" alt="24" src="https://github.com/user-attachments/assets/df46301b-4874-48e0-a0d5-514fefa777d4" />
+
+### Step 15:Set the security to permissive 
 <img width="493" height="185" alt="25" src="https://github.com/user-attachments/assets/50e34b3d-8a7a-44e4-9499-8444866a009a" />
+
+### Step 16: Open the browser and paste write the server name.For verify open browser 
 <img width="814" height="604" alt="26" src="https://github.com/user-attachments/assets/93d0f819-d348-4b7d-be2f-cad48bad9c17" />
 <img width="806" height="570" alt="27" src="https://github.com/user-attachments/assets/e86d5f95-5ad2-4aef-a32b-299f57f0039c" />
 
