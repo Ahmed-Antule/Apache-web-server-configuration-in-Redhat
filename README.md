@@ -26,8 +26,14 @@
 ### Step 7:Create the sample web page
 <img width="667" height="461" alt="11" src="https://github.com/user-attachments/assets/9c905f8f-9e67-4640-8d48-b3fd413d578f" />
 <img width="678" height="359" alt="12" src="https://github.com/user-attachments/assets/9500c302-dd59-4678-a176-2f2087fd100f" />
+
+### Step 8:Add http into firewall 
 <img width="663" height="470" alt="13" src="https://github.com/user-attachments/assets/b696fc4c-6cb0-4c4b-83ad-92c2e674eda8" />
+
+### Step 9:Check the IP address of the machine and copy the IP address of it.
 <img width="669" height="462" alt="14" src="https://github.com/user-attachments/assets/8f866e9b-0ddb-4618-85d3-b7321509fa3e" />
+
+### Step 10: Now paste the IP address in the browser.For verify open the firefox 
 <img width="804" height="600" alt="15" src="https://github.com/user-attachments/assets/cc517a69-278e-4605-8e2b-f25a8a64e1dc" />
 <img width="653" height="462" alt="16" src="https://github.com/user-attachments/assets/3c6678b7-72de-416d-85ab-6594874bc328" />
 <img width="668" height="465" alt="17" src="https://github.com/user-attachments/assets/82c6f96d-c55f-4286-99a9-ee05d14314e2" />
