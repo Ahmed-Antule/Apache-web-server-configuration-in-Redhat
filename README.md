@@ -41,6 +41,8 @@
 ### Step 11: Create directory and index file for the second website 
 <img width="653" height="462" alt="16" src="https://github.com/user-attachments/assets/3c6678b7-72de-416d-85ab-6594874bc328" />
 <img width="668" height="465" alt="17" src="https://github.com/user-attachments/assets/82c6f96d-c55f-4286-99a9-ee05d14314e2" />
+
+### Step 12: Create configuration file for both websites 
 <img width="664" height="461" alt="18" src="https://github.com/user-attachments/assets/89d6ad5a-83fc-4def-ae26-6bcdb9804108" />
 <img width="655" height="462" alt="new 19" src="https://github.com/user-attachments/assets/527f7c6f-62e2-48f5-b956-50a20849f339" />
 <img width="661" height="463" alt="20" src="https://github.com/user-attachments/assets/cd3db758-0e72-457b-b7c8-0007c07c2d14" />
