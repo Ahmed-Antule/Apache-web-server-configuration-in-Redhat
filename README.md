@@ -6,6 +6,8 @@
 <img width="631" height="514" alt="2" src="https://github.com/user-attachments/assets/345d39cb-1bb6-4d90-9536-421f80236980" />
 <img width="474" height="293" alt="3" src="https://github.com/user-attachments/assets/5e87848f-56eb-4d16-85b3-935ed27ae918" />
 <img width="663" height="540" alt="4" src="https://github.com/user-attachments/assets/989f4d23-3467-4d34-93f9-87cc46693770" />
+
+### Step 2:Check whether the iso file is attached properly or not using lsblk command.And copy the path of iso file.
 <img width="665" height="462" alt="5" src="https://github.com/user-attachments/assets/cd19afc7-ebaf-4b0b-bbf5-877b3e5faa64" />
 <img width="666" height="472" alt="6" src="https://github.com/user-attachments/assets/4f401781-8204-4c5e-bfe6-4eba978d6877" />
 <img width="668" height="479" alt="7" src="https://github.com/user-attachments/assets/9d09bcd4-0483-4c8b-9e55-e392c1f79ffd" />
