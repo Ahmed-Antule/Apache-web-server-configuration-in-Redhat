@@ -9,8 +9,12 @@
 
 ### Step 2:Check whether the iso file is attached properly or not using lsblk command.And copy the path of iso file.
 <img width="665" height="462" alt="5" src="https://github.com/user-attachments/assets/cd19afc7-ebaf-4b0b-bbf5-877b3e5faa64" />
+
+### Step 3: Create the repo file to manage the package.
 <img width="666" height="472" alt="6" src="https://github.com/user-attachments/assets/4f401781-8204-4c5e-bfe6-4eba978d6877" />
 <img width="668" height="479" alt="7" src="https://github.com/user-attachments/assets/9d09bcd4-0483-4c8b-9e55-e392c1f79ffd" />
+
+### step 4:Check the package is available or not.
 <img width="661" height="464" alt="8" src="https://github.com/user-attachments/assets/9eae2a0c-ccf8-44eb-9503-335992630632" />
 
 
