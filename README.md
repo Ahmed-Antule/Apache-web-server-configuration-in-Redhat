@@ -1,5 +1,7 @@
 # Apache-web-server-configuration-in-Redhat
 
+### Step 1:Add the iso file to the machine 
+
 <img width="732" height="671" alt="1" src="https://github.com/user-attachments/assets/9dc2a36e-b607-4c7c-80bf-7994997f4975" />
 <img width="631" height="514" alt="2" src="https://github.com/user-attachments/assets/345d39cb-1bb6-4d90-9536-421f80236980" />
 <img width="474" height="293" alt="3" src="https://github.com/user-attachments/assets/5e87848f-56eb-4d16-85b3-935ed27ae918" />
