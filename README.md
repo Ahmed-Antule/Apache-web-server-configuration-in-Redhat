@@ -47,7 +47,11 @@
 <img width="655" height="462" alt="new 19" src="https://github.com/user-attachments/assets/527f7c6f-62e2-48f5-b956-50a20849f339" />
 <img width="661" height="463" alt="20" src="https://github.com/user-attachments/assets/cd3db758-0e72-457b-b7c8-0007c07c2d14" />
 <img width="661" height="466" alt="21" src="https://github.com/user-attachments/assets/6bda5e06-e829-4629-95e2-c4e025b68c96" />
+
+### Step 13:Check the syntax and then restart the service 
 <img width="662" height="464" alt="22" src="https://github.com/user-attachments/assets/d6ca8a75-b5c1-487f-b519-86af7a52dcd0" />
+
+### Step 14: Update the hosts file
 <img width="663" height="316" alt="23" src="https://github.com/user-attachments/assets/1a0a6343-5ecc-4eb5-9963-8148bc280f13" />
 <img width="672" height="332" alt="24" src="https://github.com/user-attachments/assets/df46301b-4874-48e0-a0d5-514fefa777d4" />
 <img width="493" height="185" alt="25" src="https://github.com/user-attachments/assets/50e34b3d-8a7a-44e4-9499-8444866a009a" />
