@@ -17,9 +17,13 @@
 ### step 4:Check the package is available or not.
 <img width="661" height="464" alt="8" src="https://github.com/user-attachments/assets/9eae2a0c-ccf8-44eb-9503-335992630632" />
 
-
+### Step 5: Install the package 
 <img width="659" height="463" alt="9" src="https://github.com/user-attachments/assets/7a257c51-012e-4497-880e-59f5a2fcdac0" />
+
+### Step 6:Start and Enable the httpd
 <img width="667" height="470" alt="10" src="https://github.com/user-attachments/assets/d232331e-0f0d-416d-b857-5689d84554c6" />
+
+### Step 7:Create the sample web page
 <img width="667" height="461" alt="11" src="https://github.com/user-attachments/assets/9c905f8f-9e67-4640-8d48-b3fd413d578f" />
 <img width="678" height="359" alt="12" src="https://github.com/user-attachments/assets/9500c302-dd59-4678-a176-2f2087fd100f" />
 <img width="663" height="470" alt="13" src="https://github.com/user-attachments/assets/b696fc4c-6cb0-4c4b-83ad-92c2e674eda8" />
